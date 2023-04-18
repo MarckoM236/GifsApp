@@ -8,4 +8,5 @@ import { Gif } from '../../interface/gifs.interface';
 })
 export class ResultadosComponent {
   @Input() gifs:Gif[]=[];
+
 }
